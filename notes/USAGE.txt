@@ -1,0 +1,4 @@
+USAGE LosslessScaling
+Borderless. Hotkey. LSFG x2-x4.
+Extract. Run. See readme.
+Stamp rev-c9d41b-20261009
